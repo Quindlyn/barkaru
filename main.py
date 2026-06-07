@@ -15,15 +15,15 @@ cardinal_stats = [
     "aethertune",
 ]
 explosion_bites = [
-    "EXPLOSION",
-    "KABOOM",
-    "BLAST",
-    "BLAMO",
-    "KAPOW",
-    "KRAKOW",
-    "EXPLODED",
-    "DETONATED",
-    "DICE EXPLOSION",
+    "Fate emboldens.",
+    "The stars align.",
+    "Polari gleams.",
+    "Lundara attends.",
+    "A Chord resounds.",
+    "The Veil beckons.",
+    "Destiny prevails.",
+    "Fortune favors.",
+    "The Shroud observes.",
 ]
 roll_limit = 22
 
